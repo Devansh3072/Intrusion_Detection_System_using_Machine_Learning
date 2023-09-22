@@ -34,19 +34,19 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/your-username/Intrusion_Detection_System_using_Machine_Learning.git
 2. Navigate to the project directory:
-    cd SVM.ipynb
-    cd Random_Forest.ipynb
+    ..* cd SVM.ipynb
+    ..* cd Random_Forest.ipynb
 
 ## Usage
 1.Open the Jupyter Notebook:
-  *jupyter notebook SVM.ipynb
-  *jupyter notebook Random_Forest.ipynb  
+  ..* jupyter notebook SVM.ipynb
+  ..* jupyter notebook Random_Forest.ipynb  
 
 ## Dataset
   This project uses the NSL_KDD_CUP dataset for training and testing.
 
 ## Machine Learning Models
   The notebook includes the implementation of various Machine Learning models such as:
-    *Support Vector Machines(SVM)
-    *Random Forest
+    1.Support Vector Machines(SVM)
+    2.Random Forest
 
